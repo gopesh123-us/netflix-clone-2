@@ -1,6 +1,6 @@
 # NetflixClone-2
 
-## Just Google Authentication with some advancements
+## Just Google Authentication with some advancements. This is developed on Ubuntu
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
